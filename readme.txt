@@ -8,11 +8,11 @@ Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Integrate Custom Field Suite content into WordPress SEO Content Analysis
+Integrate Custom Field Suite content into Yoast SEO Content Analysis
 
 == Description ==
 
-CFS Yoast Analytics will include content in Custom Field Suite powered `input[type="text"]`s and `textarea`s.
+CFS Yoast Analytics will include content from Custom Field Suite powered `input[type="text"]`s and `textarea`s in Yoast SEO Content Analysis.
 
 *Forked from [Yoast ACF Analytics](https://github.com/Yoast/yoast-acf-analysis)*
 
