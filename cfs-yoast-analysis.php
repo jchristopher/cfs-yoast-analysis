@@ -2,7 +2,7 @@
 /**
  * Plugin Name: CFS Yoast Analysis
  * Version: 1.0.0
- * Plugin URI: https://mondaybynoon.com/downloads/cfs-yoast-analysis/
+ * Plugin URI: https://github.com/jchristopher/cfs-yoast-analysis/
  * Description: Integrate Custom Field Suite content in Yoast WordPress SEO analysis
  * Author: Jonathan Christopher
  * Author URI: https://mondaybynoon.com/
