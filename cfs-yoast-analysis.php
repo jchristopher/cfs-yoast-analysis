@@ -69,7 +69,7 @@ class CFS_Yoast_Analysis {
 	 * @return string Content with added CFS data.
 	 */
 	public function add_recalculation_data_to_post_content( $content, $post ) {
-		// ACF defines this function.
+		// CFS defines this function.
 		if ( ! function_exists( 'CFS' ) ) {
 			return '';
 		}
